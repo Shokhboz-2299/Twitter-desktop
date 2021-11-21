@@ -1,0 +1,12 @@
+.home-right {
+  border-right: 1px solid #111;
+  padding-top: 30px;
+}
+
+.inputSearch {
+  margin-top: 20px;
+  border-radius: 30px;
+  border: 0;
+  background-color: #f0f0f0;
+  padding: 15px 60px ;
+}
